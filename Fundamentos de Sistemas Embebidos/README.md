@@ -1,3 +1,7 @@
+# Vídeo de demostración del funcionamiento del sistema
+
+https://www.youtube.com/watch?v=MdtUl0X5Wl0
+
 # Información
 
 En general, este proyecto se trata de realizar un gimnasio dentro de una casa inteligente, el cual cuenta con sensores de movimiento, proximidad, temperatura, humedad, micrófonos, entre otros sensores que permiten una gran realización de tareas. Se realizó por medio de una Raspberry Pi Modelo 4B en el lenguaje de programación Python, así como algunos materiales extra. 
